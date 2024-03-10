@@ -6,7 +6,9 @@ Context and date
 Description
 
 ## Implementation
-Which features you included.
+Added start menu
+Multiple, increasingly challenging levels
+Created new coin and enemy sprites 
 
 ## References
 
